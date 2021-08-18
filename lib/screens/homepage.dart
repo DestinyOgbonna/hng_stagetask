@@ -78,7 +78,7 @@ class _HomepageState extends State<Homepage> {
                       style: GoogleFonts.rakkas(fontSize: 40),
                     ),
                     const SizedBox(
-                      height: 40,
+                      height: 30,
                     ),
                     TextFormField(
                       validator: (val) {
@@ -120,7 +120,7 @@ class _HomepageState extends State<Homepage> {
                       decoration: textFormFields('Address'),
                     ),
                     const SizedBox(
-                      height: 30,
+                      height: 10,
                     ),
                     GestureDetector(
                       //====================Validate and Display inputted text =========
