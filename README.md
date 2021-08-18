@@ -1,5 +1,7 @@
 # hng_stagetask
 
+The task video.mp4 gives a brief view of the application 
+
 A new Flutter application.
 
 ## Getting Started
