@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/80477923/130087975-ce195885-309f-494a-8da8-0e69644edd29.mp4
+
 # hng_stagetask
 
 The task video.mp4 gives a brief view of the application 
